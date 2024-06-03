@@ -22,8 +22,8 @@ This repository contains a simple Flask application that captures cookies from a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cookie_grabber.git
-cd cookie_grabber
+git clone https://github.com/Cyb3rN3xt/WormGPTProject.git
+cd WormGPTProject
 ```
 
 2. Install the required Python packages:
